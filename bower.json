@@ -11,8 +11,9 @@
         "src/calendar.js",
         "src/calendar-setup.js",
         "src/calendar-ru_win_.js",
-        "src/dynarch-calendar.js"
-
+        "src/dynarch-calendar.js",
+        "src/calendar.js",
+        "src/calendar-ilb.js"
     ],
     "dependencies": {
         "x-tag-core": "*"
